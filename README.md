@@ -47,7 +47,5 @@ The Node API can also execute the Python pipeline through POST /api/analysis/run
 This project is designed for local/offline development. External cloud services are not required for the demo.
 
 
-# SAT-SA
-### Supervisory Analytics Tool for SOC Assessment
-<img src="./assets/SAT-SA-Overview.png" alt="SAT-SA Overview">
+
 
