@@ -1,0 +1,4 @@
+cse_id,sector,size_bucket,peer_group
+CSE-001,Energy,L,Energy-L
+CSE-002,Finance,M,Finance-M
+CSE-003,Telecom,L,Telecom-L

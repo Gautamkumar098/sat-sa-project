@@ -1,0 +1,3 @@
+import Finding from '../models/Finding.js';
+const demo=[{cse_id:'CSE-001',rule_id:'EG-002',engine:'Execution Gap',severity:'HIGH',explanation:'Case closed below configured rapid-closure threshold.',score:88},{cse_id:'CSE-001',rule_id:'NS-002',engine:'Negative Space',severity:'HIGH',explanation:'Suspicious silent window detected in alert telemetry.',score:95},{cse_id:'CSE-003',rule_id:'EG-011',engine:'Execution Gap',severity:'MEDIUM',explanation:'Bulk closure pattern requires manual inspection.',score:64}];
+export async function listFindings(req,res){try{const rows=await Finding.find().sort({createdAt:-1}).lean();res.json(rows.length?rows:demo)}catch{res.json(demo)}}
