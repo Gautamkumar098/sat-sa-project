@@ -2,11 +2,26 @@
 
 SAT-SA (Supervisory Analytics Tool for SOC Assessment) full-stack starter based on the supplied technical specification.
 
+
+
+![SAT-SA Project Banner](assets/sat-sa-banner.png)
+
+# SAT-SA
+
+Supervisory Analytics Tool for SOC Assessment.
+
 ## Live Demo
 
 [View Live Project](https://sat-sa-project.vercel.app)
 
-image=![Uploading ChatGPT Image Sep 21, 2026, 09_38_35 AM.png…]()
+## Features
+
+- Supervisory analytics
+- Execution gap detection
+- Negative space detection
+- Anomaly and NLP analysis
+- Python-based analysis pipeline
+- React + Node.js + MongoDB architecture
 
 
 
