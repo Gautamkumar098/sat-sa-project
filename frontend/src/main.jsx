@@ -34,7 +34,8 @@ import {
 import axios from "axios";
 import "./styles.css";
 
-const API = "http://localhost:5000/api";
+const API = "https://sat-sa-project.onrender.com/api";
+
 const demoCSE = [
   { cse_id: "CSE-001", sector: "Energy", size_bucket: "L", peer_group: "Energy-L", supervisory_score: 92, status: "Critical" },
   { cse_id: "CSE-002", sector: "Finance", size_bucket: "M", peer_group: "Finance-M", supervisory_score: 61, status: "High" },
