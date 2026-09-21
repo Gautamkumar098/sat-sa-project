@@ -4,8 +4,8 @@ SAT-SA (Supervisory Analytics Tool for SOC Assessment) full-stack starter based 
 
 
 
-![SAT-SA Project Banner](![Uploading ChatGPT Image Sep 21, 2026, 09_38_35 AM.png…]()
-)
+![Uploading ChatGPT Image Sep 21, 2026, 09_38_35 AM.png…]()
+
 
 # SAT-SA
 
