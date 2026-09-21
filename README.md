@@ -2,7 +2,12 @@
 
 SAT-SA (Supervisory Analytics Tool for SOC Assessment) full-stack starter based on the supplied technical specification.
 
-live = "sat-sa-project.vercel.app"
+## Live Demo
+
+[View Live Project](https://sat-sa-project.vercel.app)
+
+image :![Uploading image.png…]()
+
 
 ## Stack
 - Frontend: React + Vite + React Router + Recharts
