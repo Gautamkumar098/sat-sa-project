@@ -49,8 +49,5 @@ This project is designed for local/offline development. External cloud services 
 
 # SAT-SA
 ### Supervisory Analytics Tool for SOC Assessment
-
-<p align="center">
-  <img src="assets/sat-sa-overview.png" alt="SAT-SA Project Overview" width="100%">
-</p>
+<img src="./assets/SAT-SA-Overview.png" alt="SAT-SA Overview">
 
