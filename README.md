@@ -2,6 +2,8 @@
 
 SAT-SA (Supervisory Analytics Tool for SOC Assessment) full-stack starter based on the supplied technical specification.
 
+live = sat-sa-project.vercel.app
+
 ## Stack
 - Frontend: React + Vite + React Router + Recharts
 - Backend: Node.js + Express + Mongoose
